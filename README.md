@@ -76,5 +76,5 @@ This project implements a robust authentication and authorization system using N
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, contact **Anurag Prajapati** via [email](mailto:your-email@example.com).
+For any queries, contact **Anurag Prajapati** via [email](mailto:anuragprajapati02005@gmail.com).
 
